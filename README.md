@@ -24,6 +24,7 @@ Lately I've been focusing on web development with Angular and Express, and learn
 - **[splyt](https://github.com/lukaspock/splyt)**: a React Native + Supabase app for splitting expenses with friends, groups and flatmates
 - **[milo-shared-calendar](https://github.com/lukaspock/milo-shared-calendar)**: a shared calendar with a Flutter app, a Bun/TypeScript REST API, WebSockets and PostgreSQL
 - **[web-scraper](https://github.com/lukaspock/web-scrapper)**: an async web scraper written from scratch in Rust, storing data in a simple MongoDB Collection
+- **[moni](https://github.com/lukaspock/moni)**: a React Native + Supabase app for tracking meals and workouts, built for my own daily use
 
 ## Tech I use
 
