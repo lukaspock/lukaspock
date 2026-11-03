@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 
 # Hi, I'm Lukas 👋
  
-Software engineering student at HTL Pinkafeld, Austria. I enjoy building full-stack apps and figuring out how things work under the hood.
-Lately I've been focusing on web development with Angular and Express, and learning systems programming in Rust.
+Software engineering student at HTL Pinkafeld, Austria. I like building full-stack apps and figuring out how things work under the hood.
+
+Currently: web development with Angular and Express, systems programming in Rust, and agentic workflows (spec-driven development, subagent orchestration).
  
 ## What I'm working on
 
