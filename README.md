@@ -21,7 +21,7 @@ Software engineering student at HTL Pinkafeld, Austria. I like building full-sta
 Currently: web development with Angular and Express, systems programming in Rust, and agentic workflows (spec-driven development, subagent orchestration).
  
 ## What I'm working on
-
+- **[agentbar](https://github.com/lukaspock/agentbar)**: a tiny always-on status and input bar for AI agents at the Mac notch
 - **[web-scraper](https://github.com/lukaspock/web-scrapper)**: an async web scraper written from scratch in Rust, storing data in a simple MongoDB Collection
 - **[splyt](https://github.com/lukaspock/splyt)**: a React Native + Supabase app for splitting expenses with friends, groups and flatmates
 - **[milo-shared-calendar](https://github.com/lukaspock/milo-shared-calendar)**: a shared calendar with a Flutter app, a Bun/TypeScript REST API, WebSockets and PostgreSQL
